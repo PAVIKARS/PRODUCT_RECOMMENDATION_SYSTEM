@@ -21,6 +21,7 @@ Objective -
 Provide personalized and relevant recommendations to users.
 
 3) Model based Collaborative filtering
+   
 Objective -
 Provide personalized recommendations to users based on their past behavior and preferences, while also addressing the challenges of sparsity and scalability that can arise in other collaborative filtering techniques.
 
